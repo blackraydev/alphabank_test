@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alphabank_test/static/css/main.235839d7.css",
+    "main.js": "/alphabank_test/static/js/main.524f711e.js",
+    "index.html": "/alphabank_test/index.html",
+    "main.235839d7.css.map": "/alphabank_test/static/css/main.235839d7.css.map",
+    "main.524f711e.js.map": "/alphabank_test/static/js/main.524f711e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.235839d7.css",
+    "static/js/main.524f711e.js"
+  ]
+}
